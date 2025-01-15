@@ -1,6 +1,5 @@
 # ANONO - URL Decluttering Tool
 
-![ANONO Banner](https://via.placeholder.com/800x200.png?text=ANONIX+-+URL+Decluttering+Tool)
 
 ANONIX is a Python tool designed to declutter URL lists for crawling and penetration testing. This tool is easy to use and does not require a username or password for installation.
 
