@@ -1,6 +1,3 @@
-Here's an updated version of the `README.md` file, including a section on usage and guidelines for use:
-
-```markdown
 # ANONO - URL Decluttering Tool
 
 ![ANONO Banner](https://via.placeholder.com/800x200.png?text=ANONIX+-+URL+Decluttering+Tool)
@@ -70,11 +67,8 @@ Feel free to contribute to the project! You can open issues for bugs, feature re
 
 This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
 
-For questions or feedback, feel free to reach out:
-- **Email**: ceh.ec.counselor147@gmail.com
----
+
 
 Thank you for using ANONIX!
 ```
